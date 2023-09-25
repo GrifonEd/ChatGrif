@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137511126386",
+    "firebase_url": "https://grifchat-e08ed.firebaseio.com",
+    "project_id": "grifchat-e08ed",
+    "storage_bucket": "grifchat-e08ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137511126386:android:70373377ed89a72d0f09eb",
+        "android_client_info": {
+          "package_name": "com.example.a79373.grifchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137511126386-jj73gslu6f3j8jl96prqbqerqv6fadef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a79373.grifchat",
+            "certificate_hash": "a2eaa75a69fcfced88bdac1809b894dfc75f3121"
+          }
+        },
+        {
+          "client_id": "137511126386-r8bqpuqg3cb218gr407n42potfaafaoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQfTNn17_kODvs9zOZx_62yvjD9mSOavQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137511126386-r8bqpuqg3cb218gr407n42potfaafaoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

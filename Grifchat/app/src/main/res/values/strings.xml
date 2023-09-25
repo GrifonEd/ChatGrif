@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatGrif</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="genreNames">
+        <item>Классика</item>
+        <item>Психология</item>
+        <item>Фантастика</item>
+        <item>Романы</item>
+    </string-array>
+</resources>
